@@ -1,3 +1,0 @@
-J0030+0451_red_noise_gamma
-J0030+0451_red_noise_log10_A
-log10_A_gw
