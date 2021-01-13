@@ -133,3 +133,5 @@ dmypy.json
 
 # data
 *.txt
+.DS_Store
+psrs.p
